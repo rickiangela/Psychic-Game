@@ -1,0 +1,48 @@
+h1{
+    color: white;
+    font-size:60px;
+    font-family: 'Black And White Picture', sans-serif;
+    border-width: 7px 7px 2px 7px;
+    margin-top: 20px;
+}
+
+p{
+    font-family: 'Gamja Flower', cursive;
+    font-size: 30px;
+    color: white;
+    border-width: 0px 7px 0px 7px;
+   
+}
+
+#game{
+    font-family: 'Gamja Flower', cursive;
+    color: white;
+    border-width: 0px 7px 7px 7px;
+    text-align: left;
+}
+#wins{
+    margin-left: 260px;
+    color: white;
+}
+
+#losses{
+    margin-left: 260px;
+}
+
+#guesses-left{
+    margin-left: 260px;
+}
+
+#guess-so-far{
+    margin-left: 260px;
+}
+
+.background{
+    background-color:black;
+    padding: 30px;
+    text-align: center;
+    border-style: solid;
+    border-color: white;
+    width: 70%;
+    margin-left: 150px;
+}
