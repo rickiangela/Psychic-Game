@@ -41,6 +41,7 @@ if (guesses === 0) {
     losses++
     guesses = 10;
     guessesSoFar = [];
+    computerChoice = alphabet[Math.floor(Math.random() * alphabet.length)];
 }
 
 document.getElementById('wins').innerHTML = "Wins: " + wins;
